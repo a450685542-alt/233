@@ -1,0 +1,5 @@
+{
+  "name": "MemoryLane",
+  "description": "一个极简的照片日志，帮助您重温过去的记忆，发现历史上的今天。",
+  "requestFramePermissions": []
+}
